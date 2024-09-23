@@ -115,4 +115,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-secret_api_key = "fake-api-key-12345"
+secret_api_key = fake-api-key-12345

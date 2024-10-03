@@ -115,5 +115,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-"api_key = '1234567890abcdef'"
-"password = 'password1234'"
+
